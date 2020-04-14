@@ -8,7 +8,6 @@ Contains:
 5. Logout
 
 username: Admin
-
 password: asdf1234
 
 Compile the program
